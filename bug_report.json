@@ -1,1 +1,10 @@
-
+{
+  "heading":"main points of bug", 
+  "description":"brief description of the problem", 
+  "severity":"high", 
+  "steps to reproduce":"how to reproduce bug", 
+  "environment":"name of enviroment used", 
+  "expected result":"what we wanted to have",
+  "actual result":"what we got", 
+  "visual attachments":"screenshoots"
+}
